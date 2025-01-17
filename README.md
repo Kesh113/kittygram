@@ -1,7 +1,5 @@
 ![badge_kittygram](https://github.com/kesh113/kittygram_final/actions/workflows/main.yml/badge.svg)
 
-Извините за путаницу. Вот текст с правильной разметкой Markdown:
-
 # Kittygram
 
 ## Описание проекта
@@ -26,7 +24,7 @@
 - **Обработка изображений**: Pillow
 - **Цвета**: webcolors
 - **Тестирование**: pytest, pytest-django, flake8
-- **Развертывание**: Gunicorn, Nginx
+- **Развертывание**: Gunicorn, Nginx, Docker
 - **Конфигурация**: PyYAML
 
 ## Как развернуть проект
